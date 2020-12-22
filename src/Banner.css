@@ -6,13 +6,17 @@
 
 .banner_contents {
   margin-left: 30px;
-  margin-top: 140px;
+  margin-top: 0px;
   height: 190px;
 }
 .banner_title {
   font-size: 3rem;
   font-weight: 800;
-  padding-bottom: 0.3rem;
+  padding-bottom: 2rem;
+}
+
+.banner_title :h1 {
+  margin-top: 200px;
 }
 
 .banner_description {
